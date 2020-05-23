@@ -1,0 +1,210 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA/ECE243/Lab2/Design_Files-2/part5.Verilog/ModelSim
+vdec3to8
+Z1 !s110 1580973279
+!i10b 1
+!s100 7T1JdhUGTh7IYRoWKb[M80
+IeK>=[OH;[SOKBQaLgTDGl1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1580972855
+Z4 8../proc.v
+Z5 F../proc.v
+L0 293
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1580973279.000000
+Z8 !s107 ../seg7.v|../proc.v|../part5.v|../inst_mem.v|../flipflop.v|
+Z9 !s90 -reportprogress|300|../flipflop.v|../inst_mem.v|../part5.v|../proc.v|../seg7.v|
+!i113 1
+Z10 tCvgOpt 0
+vflipflop
+R1
+!i10b 1
+!s100 4H2K_V>f3BSlSog@_SfWf0
+If;>LCi5HH2UkIZ<N0]YNc1
+R2
+R0
+Z11 w1580967278
+8../flipflop.v
+F../flipflop.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vinst_mem
+R1
+!i10b 1
+!s100 K4RmZIQj0T6D3l>Szck240
+Ia4X7][PRd9=TRP4J;ZKQ22
+R2
+R0
+R11
+8../inst_mem.v
+F../inst_mem.v
+L0 39
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vpart5
+R1
+!i10b 1
+!s100 ocPNf?Bo:I8E3?X>l]_]<1
+I25@2f^>aXTjOFXemg4Na20
+R2
+R0
+Z12 w1580967279
+8../part5.v
+F../part5.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vpc_count
+R1
+!i10b 1
+!s100 7@6KGZL8nYZiWaaDihL<R2
+Idb`^ZL6YI3:R12ZZ^nELd0
+R2
+R0
+R3
+R4
+R5
+L0 278
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vproc
+R1
+!i10b 1
+!s100 n]=08c:fzM5JQI?aD0eN;3
+IAKBRD<9ee@43]h@kA0eRF0
+R2
+R0
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vregn
+R1
+!i10b 1
+!s100 aSS0TPIlefh1_WfoAdW6;1
+I<ePX:[Me;_;^dHOb>mVhI3
+R2
+R0
+R3
+R4
+R5
+L0 311
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vregne
+R1
+!i10b 1
+!s100 M`66VdgnXT_V;K11gWAb?0
+I43X>;9GG<4=o3E`5oPGSc3
+R2
+R0
+Z13 w1580972956
+Z14 8../seg7.v
+Z15 F../seg7.v
+L0 20
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vseg7
+R1
+!i10b 1
+!s100 Q2YQ:imoZZffznkE:iU203
+IIGWlN`OHXUo<fZ>=<9`ii1
+R2
+R0
+R13
+R14
+R15
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vtestbench
+R1
+!i10b 1
+!s100 Lf8k4F5f1n`5=^Ie?;MCd1
+I@CNEeS^;:^XSAU2?0<4z20
+R2
+R0
+R12
+8testbench.v
+Ftestbench.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+!s107 testbench.v|
+!s90 -reportprogress|300|testbench.v|
+!i113 1
+R10
